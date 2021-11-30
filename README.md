@@ -94,3 +94,5 @@ Caveat Emptor is an online auction website which Users can register and bid to i
 }
 ```
 
+## ER Diagram
+![ERD Diagram](src/main/resources/erd.png)
